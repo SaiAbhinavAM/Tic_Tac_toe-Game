@@ -45,11 +45,20 @@ python player.py
 You'll be prompted to enter the host IP address. Use the host machine's IP address (e.g. 192.168.1.10).
 
 Each client will be assigned as Player 1 (X) or Player 2 (O).
+-------------------       -----------------------------------------------
+
+- - - - - - - - - - - - - - - DEMO- - - - - - - - - - - - - - - - - -
+
+https://github.com/user-attachments/assets/fc7304fc-cf84-439c-8649-373b9972542f
 
 🖼️ Game UI
 Game board: 3x3 grid
 
 X for Player 1 (Red), O for Player 2 (Blue)
+
+
+
+
 
 Live display of current turn and game status
 
